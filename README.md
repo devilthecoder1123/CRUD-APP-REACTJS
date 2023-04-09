@@ -11,14 +11,16 @@ Delete: **Users can delete data items from the list by clicking the "Delete" but
 React.js: **A popular JavaScript library for building user interfaces**.<br>
 Axios: **A promise-based HTTP client for making API calls**.<br>
 Semantic UI: **A popular CSS framework for building responsive and mobile-first web applications.** <br>
-**
+
 ### Installation
-Clone the repository to your local machine using git clone.
-Navigate to the project directory and run npm install to install the dependencies.
-Run npm start to start the development server.
-Open a web browser and go to http://localhost:3000 to see the app in action.
-Usage
-Add new data items by filling out the form and clicking the "Add" button.
-View the list of data items, which are displayed in a visually appealing and user-friendly manner.
-Edit existing data items by clicking the "Edit" button, modifying the data, and saving the changes.
-Delete data items from the list by clicking the "Delete" button.
+Clone the repository to your local machine using git clone.<br>
+
+Navigate to the project directory and run npm install to install the dependencies.<br>
+Run npm start to start the development server.<br>
+Open a web browser and go to http://localhost:3000 to see the app in action.<br>
+
+### Usage
+**Add new data items by filling out the form and clicking the "Add" button.<br>
+View the list of data items, which are displayed in a visually appealing and user-friendly manner.<br>
+Edit existing data items by clicking the "Edit" button, modifying the data, and saving the changes.<br>
+Delete data items from the list by clicking the "Delete" button.<br>
