@@ -1,4 +1,4 @@
-*This is a simple CRUD (Create, Read, Update, Delete) application built using React.js. The application allows users to perform basic CRUD operations on a collection of data items. The data items are displayed in a list, and users can add new items, edit existing items, and delete items from the list.*
+### *This is a simple CRUD (Create, Read, Update, Delete) application built using React.js. The application allows users to perform basic CRUD operations on a collection of data items. The data items are displayed in a list, and users can add new items, edit existing items, and delete items from the list.*
 
 ### Features
 
