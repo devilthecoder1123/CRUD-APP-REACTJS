@@ -23,4 +23,4 @@ Open a web browser and go to http://localhost:3000 to see the app in action.<br>
 **Add new data items by filling out the form and clicking the "Add" button.<br>
 View the list of data items, which are displayed in a visually appealing and user-friendly manner.<br>
 Edit existing data items by clicking the "Edit" button, modifying the data, and saving the changes.<br>
-Delete data items from the list by clicking the "Delete" button.<br>
+Delete data items from the list by clicking the "Delete" button.**<br>
